@@ -1,0 +1,27 @@
+p{
+color: aliceblue;
+}
+#um { color: rgb(21, 255, 0);
+text-align: center;
+}
+.myclass {
+ border:0.1em
+  ridge;
+}
+li.myclass{
+font-size: x-large;
+
+}
+
+.newclass{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fonte{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.testecores {
+    text-align: center;
+    background-color: rgba(134, 92, 173, 0.685);
+    padding: 3%;
+}
