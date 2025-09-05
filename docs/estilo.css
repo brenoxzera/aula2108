@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 0, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+div{
+    border-style: solid;
+}
+
+.menu{
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    margin: 1rem;
+}
+.conteudo{
+padding: 2rem;
+
+}
+
+.item-menu{
+padding: 1rem;
+margin: 0rem 0rem 0rem 0rem ;
+list-style: none;
+border-bottom: solid;
+}
+
+.item-menu:hover{
+    background-color: rgba(0, 0, 0, 0.178);
+}
+
+section{
+    margin-top: 2rem;
+}
+#sec1{
+    background-color: rgba(0, 0, 0, 0.425);
+}
+#sec3{
+    background-color: rgba(0, 0, 0, 0.425);
+}
